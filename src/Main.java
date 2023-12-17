@@ -31,7 +31,7 @@ public class Main {
 
         }
 
-       // Double result= tutar ? "Sınıfı Geçti" : "Sınıfta Kaldı";
+    
 
 
 
